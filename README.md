@@ -1,4 +1,4 @@
-# Colorful Balloon Space Blitz
+# Colorfall Balloon Space Blitz
 [Leia este README em Português Brasileiro](README-pt-BR.md)
 
 [![Game in Scratch](https://img.shields.io/badge/Game%20Engine-Scratch-orange?style=for-the-badge&logo=scratch)](https://scratch.mit.edu/)
