@@ -1,4 +1,4 @@
-# Jogo Colorido de Balões e Nave Espacial
+# Blitz Espacial de Balões Coloridos
 
 [![Game in Scratch](https://img.shields.io/badge/Game%20Engine-Scratch-orange?style=for-the-badge&logo=scratch)](https://scratch.mit.edu/)
 [![Author](https://img.shields.io/badge/Author-Monica%20Campos-blue?style=for-the-badge)](https://github.com/mrcb2025)
